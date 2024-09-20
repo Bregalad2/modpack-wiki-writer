@@ -1,0 +1,48 @@
+
+# Nether mushroom forest edge
+The Nether Mushroom Forest Edge biome is a unique and eerie environment found within the Minecraft world's Nether realm. Characterized by a dense concentration of crimson and brown mushrooms, this biome creates a sense of mystique and foreboding, as if one has stumbled upon an ancient, long-abandoned landscape. The atmosphere is thick with an otherworldly presence, as if the very fabric of reality has been warped to accommodate these strange, glowing fungi. A dimly lit sky above serves only to heighten the sense of unease, casting an eerie glow over the twisted, nightmarish landscape below. Amidst this surreal backdrop, players can expect to encounter a range of peculiar features and creatures, each one more unsettling than the last. The Nether Mushroom Forest Edge biome is not for the faint of heart – those who venture into its twisted depths are sure to be left with a lasting impression, if not a few lingering nightmares.
+## Mobs:
+### ambient:
+ - Firefly  (*Betternether*)
+ - Hydrogen jellyfish  (*Betternether*)
+ - Flying pig  (*Betternether*)
+### creature:
+ - Strider  (*Minecraft*)
+### monster:
+ - Ghast  (*Minecraft*)
+ - Zombified piglin  (*Minecraft*)
+ - Magma cube  (*Minecraft*)
+ - Skull  (*Betternether*)
+ - Enderman  (*Minecraft*)
+ - Piglin  (*Minecraft*)
+ - Hoglin  (*Minecraft*)
+ - Naga  (*Betternether*)
+ - Jungle skeleton  (*Betternether*)
+ - Piglin brute  (*Minecraft*)
+## Features:
+ - Patch stalagmite  (*Betternether*)
+ - Spring open  (*Minecraft*)
+ - Patch fire  (*Minecraft*)
+ - Patch soul fire  (*Minecraft*)
+ - Glowstone extra  (*Minecraft*)
+ - Glowstone  (*Minecraft*)
+ - Brown mushroom nether  (*Minecraft*)
+ - Red mushroom nether  (*Minecraft*)
+ - Ore magma  (*Minecraft*)
+ - Spring closed  (*Minecraft*)
+ - Ore gravel nether  (*Minecraft*)
+ - Ore blackstone  (*Minecraft*)
+ - Ore gold nether  (*Minecraft*)
+ - Ore quartz nether  (*Minecraft*)
+ - Ore ancient debris large  (*Minecraft*)
+ - Ore debris small  (*Minecraft*)
+ - Cincinnasite ore  (*Betternether*)
+ - Nether ruby rare ore  (*Betternether*)
+ - Nether lapis ore  (*Betternether*)
+ - Nether redstone ore  (*Betternether*)
+ - Nether ruby ore  (*Betternether*)
+ - Wart cap  (*Betternether*)
+ - Spring lava  (*Minecraft*)
+ - Brown mushroom normal  (*Minecraft*)
+ - Red mushroom normal  (*Minecraft*)
+ - Vegetation mushroom forrest  (*Betternether*)

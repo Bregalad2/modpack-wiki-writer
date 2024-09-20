@@ -1,0 +1,48 @@
+
+# Gravel desert
+The Gravel Desert biome is a harsh and unforgiving environment, characterized by a dry and rocky terrain that stretches out as far as the eye can see. The landscape is dotted with gravel patches, rock formations, and the occasional stalactite, creating a rugged and inhospitable atmosphere. A faint mist lingers in the air, casting a warm orange glow over the entire biome. The sky above is a deep brownish-red hue, adding to the sense of desolation that pervades this unforgiving landscape. Despite its harsh conditions, the Gravel Desert biomes offers a unique and immersive experience for players, with plenty of opportunities for exploration and discovery. With its distinctive aesthetic and challenging environment, it's a biome that will push even the most seasoned Minecraft veterans to their limits.
+## Mobs:
+### ambient:
+ - Firefly  (*Betternether*)
+ - Hydrogen jellyfish  (*Betternether*)
+ - Flying pig  (*Betternether*)
+### creature:
+ - Strider  (*Minecraft*)
+### monster:
+ - Ghast  (*Minecraft*)
+ - Zombified piglin  (*Minecraft*)
+ - Magma cube  (*Minecraft*)
+ - Skull  (*Betternether*)
+ - Enderman  (*Minecraft*)
+ - Piglin  (*Minecraft*)
+ - Hoglin  (*Minecraft*)
+ - Naga  (*Betternether*)
+ - Jungle skeleton  (*Betternether*)
+ - Piglin brute  (*Minecraft*)
+## Features:
+ - Patch stalactite  (*Betternether*)
+ - Spring open  (*Minecraft*)
+ - Patch fire  (*Minecraft*)
+ - Patch soul fire  (*Minecraft*)
+ - Glowstone extra  (*Minecraft*)
+ - Glowstone  (*Minecraft*)
+ - Brown mushroom nether  (*Minecraft*)
+ - Red mushroom nether  (*Minecraft*)
+ - Ore magma  (*Minecraft*)
+ - Spring closed  (*Minecraft*)
+ - Ore gravel nether  (*Minecraft*)
+ - Ore blackstone  (*Minecraft*)
+ - Ore gold nether  (*Minecraft*)
+ - Ore quartz nether  (*Minecraft*)
+ - Ore ancient debris large  (*Minecraft*)
+ - Ore debris small  (*Minecraft*)
+ - Cincinnasite ore  (*Betternether*)
+ - Nether ruby rare ore  (*Betternether*)
+ - Nether lapis ore  (*Betternether*)
+ - Nether redstone ore  (*Betternether*)
+ - Wart cap  (*Betternether*)
+ - Spring lava  (*Minecraft*)
+ - Brown mushroom normal  (*Minecraft*)
+ - Red mushroom normal  (*Minecraft*)
+ - Patch nether cactus  (*Betternether*)
+ - Vegetation nether gravel desert  (*Betternether*)
